@@ -2,9 +2,7 @@
 
 🔭 Atualmente, estou trabalhando como Programador, Desenvolvedor e Professor universitário.
 
-🌱 Atualmente, estou me aprofundando em Laravel, React js e React Native.
-
-👯 Estou procurando colaborar em projetos voltados para desenvolvimento web, especialmente com Laravel e React.
+🌱 Atualmente, estou me aprofundando em Laravel, React js.
 
 📫 Para me contatar e ter mais detalhes sobre mim acesse meu site pessoal lucasgalli.github.io.
 
