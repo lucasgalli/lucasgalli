@@ -11,7 +11,7 @@ Recentemente descobri que um bom código e uma ponte bem projetada têm muito em
 <br/>
 <div>
   <a href="https://github.com/lucasgalli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgalli&show_icons=true&theme=prussian&include_all_commit=true&count_private=true">
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgalli&show_icons=true&theme=prussian&include_all_commit=true&count_private=true">-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalli&layout=compact&langs_count=16&theme=prussian&count_private=true">
   </a>
 </div>
