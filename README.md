@@ -1,6 +1,6 @@
 ## Olá, Eu sou Lucas Galli 👋
 
-🔭 Atualmente, estou trabalhando como Programador, Desenvolvedor e Professor universitário.
+🔭 Atualmente, estou trabalhando como Programador, Desenvolvedor.
 
 🌱 Atualmente, estou me aprofundando em Laravel, React js.
 
