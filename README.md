@@ -5,9 +5,6 @@
 🌱 Atualmente, estou me aprofundando em Laravel, React js.
 
 📫 Para me contatar e ter mais detalhes sobre mim acesse meu site pessoal lucasgalli.github.io.
-
-⚡ Curiosidade:
-Recentemente descobri que um bom código e uma ponte bem projetada têm muito em comum: ambos precisam de uma base sólida e atenção aos detalhes!
 <br/>
 <div>
   <a href="https://github.com/lucasgalli">
