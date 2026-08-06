@@ -2,9 +2,6 @@
 
 🔭 Atualmente, estou trabalhando como Programador, Desenvolvedor.
 
-🌱 Atualmente, estou me aprofundando em Laravel, React js.
-
-📫 Para me contatar e ter mais detalhes sobre mim acesse meu site pessoal lucasgalli.github.io.
 <br/>
 <div>
   <a href="https://github.com/lucasgalli">
