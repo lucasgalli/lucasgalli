@@ -2,14 +2,6 @@
 
 🔭 Atualmente, estou trabalhando como Programador, Desenvolvedor.
 
-<br/>
-<div>
-  <a href="https://github.com/lucasgalli">
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgalli&show_icons=true&theme=prussian&include_all_commit=true&count_private=true">-->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalli&layout=compact&langs_count=16&theme=prussian&count_private=true">
-  </a>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
